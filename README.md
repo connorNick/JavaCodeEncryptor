@@ -7,7 +7,7 @@ Java代码加密工具,Java程序加密,Java一键加密工具
 
 
 
-| 支持的部署环境 | Windows/Linum/macOS                     |
+| 支持的部署环境 | Windows/Linux/macOS                     |
 | -------------- | --------------------------------------- |
 | 支持的框架     | SpringMVC、SpringBoot、Maven            |
 | 场景           | java加固，开发jar\war包给第三方进行交付 |
